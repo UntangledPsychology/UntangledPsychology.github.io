@@ -1,0 +1,31 @@
+User-Agent: *
+Disallow: 
+
+User-Agent: Googlebot
+Allow: /UntangledPsychology.github.io
+
+User-Agent: Googlebot-Mobile
+Allow: /UntangledPsychology.github.io
+
+User-Agent: Googlebot-Image
+Allow: /UntangledPsychology.github.io
+
+User-Agent: Mediapartners-Google
+Allow: /UntangledPsychology.github.io
+
+User-Agent: Adsbot-Google
+Disallow: /UntangledPsychology.github.io
+
+User-Agent: Slurp
+Disallow: /UntangledPsychology.github.io
+
+User-Agent: msnbot
+Disallow: /UntangledPsychology.github.io
+
+User-Agent: msnbot-media
+Disallow: /UntangledPsychology.github.io
+
+User-Agent: Teoma
+Disallow: /UntangledPsychology.github.io
+
+Sitemap: https://UntangledPsychology.github.io/sitemap.xml
